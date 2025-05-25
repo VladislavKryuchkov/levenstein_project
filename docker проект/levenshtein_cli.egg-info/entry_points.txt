@@ -1,0 +1,2 @@
+[console_scripts]
+levenshtein = levenshtein_cli:main

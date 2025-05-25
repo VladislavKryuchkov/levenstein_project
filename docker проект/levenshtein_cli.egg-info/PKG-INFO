@@ -1,0 +1,11 @@
+Metadata-Version: 2.4
+Name: levenshtein_cli
+Version: 0.1.0
+Summary: CLI для вычисления расстояния Левенштейна между строками
+Author: Ваше Имя
+Author-email: you@example.com
+Requires-Python: >=3.6
+Dynamic: author
+Dynamic: author-email
+Dynamic: requires-python
+Dynamic: summary
